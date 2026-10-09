@@ -1,0 +1,6 @@
+{
+  "name": "Chinese Learning Video Generator",
+  "description": "Automatically convert Chinese sentences with Pinyin and Bangla translations into structured educational MP4 videos with natural voice-overs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
